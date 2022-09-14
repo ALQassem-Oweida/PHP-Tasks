@@ -24,7 +24,7 @@ echo "2. Reverse a string :<br><br>";
 function ReverseString($string){
     return strrev($string);
 }
-$wordToReverse="qassem" ; 
+$wordToReverse="hello" ; 
 echo 'Orignal word : '. $wordToReverse. '<br>';
 echo 'Reversed word : '. ReverseString($wordToReverse). '<br><br>';
 

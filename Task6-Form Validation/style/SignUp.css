@@ -1,0 +1,53 @@
+
+body{
+    background-color:#FAFAFA;
+}
+
+form{
+display:flex;
+align-items:center;
+margin-top:0px;
+flex-direction:column;
+width: 30%;
+margin:auto;
+}
+
+input{
+margin-top:20px;
+padding:10px;
+
+}
+
+
+
+.sign_up{
+margin-top:20px;
+margin-bottom:5px;
+width: 250px;
+border-radius:30px;
+background-color:#FF5252;
+color:white;
+padding:10px;
+border:none;
+
+
+}
+p{
+color: #B1B1B1;
+}
+.BackToHome{
+font-weight:900;
+margin-left:10%;
+margin-top:30px;
+
+}
+a{
+color:black;
+font-weight:bold;
+text-decoration:none;
+
+}
+.error{
+color:red;
+}
+

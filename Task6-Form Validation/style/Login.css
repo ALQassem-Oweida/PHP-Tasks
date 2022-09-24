@@ -1,0 +1,47 @@
+body{
+    background-color:#FAFAFA;
+}
+
+form{
+display:flex;
+margin:auto;
+flex-direction:column;
+width: 30%;
+align-items:center;
+}
+
+input{
+margin-top:30px;
+padding:10px;
+width:100%;
+}
+
+
+
+.log_in{
+margin-top:50px;
+
+width: 350px;
+border-radius:30px;
+background-color:#3D5AFE;
+color:white;
+padding:10px;
+border:none;
+
+
+}
+p{
+color: #B1B1B1;
+}
+.BackToHome{
+font-weight:900;
+margin-left:10%;
+margin-top:30px;
+
+}
+a{
+color:black;
+font-weight:bold;
+text-decoration:none;
+
+}

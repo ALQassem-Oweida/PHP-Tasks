@@ -1,0 +1,36 @@
+
+body{
+    background-color:#FAFAFA;
+}
+
+h3{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+input{
+margin-top:20px;
+padding:10px;
+width: 40%;
+}
+
+.addbtn{
+margin-top:70px;
+margin-bottom:5px;
+width: 250px;
+border-radius:30px;
+background-color:#00a033;
+color:white;
+padding:10px;
+border:none;
+
+}
+
+.BackToHome{
+font-weight:900;
+margin-left:10%;
+margin-top:30px;
+
+}
+
+
